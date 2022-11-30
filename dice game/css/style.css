@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: linear-gradient(to right, #3f5efb, rgba(247, 187, 24, 0.897));
+}
+
+.txt-line{
+    border-radius: 25px;
+    font-size: 21px;
+    padding: 10px;
+}
+
+.my-btn{
+    background: linear-gradient(to right, crimson, navy);
+    color: azure;
+    font-size: 28px;
+    font-weight: 600;
+    padding: 10px;
+    border: none;
+    border-radius: 25px;
+}
